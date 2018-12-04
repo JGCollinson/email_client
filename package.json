@@ -1,0 +1,26 @@
+{
+  "name": "email-client",
+  "version": "1.0.0",
+  "description": "send emails with gcp",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JGCollinson/email_client.git"
+  },
+  "keywords": [
+    "email",
+    "bot"
+  ],
+  "author": "Garrett",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JGCollinson/email_client/issues"
+  },
+  "homepage": "https://github.com/JGCollinson/email_client#readme",
+  "dependencies": {
+    "sendgrid": "^5.2.3"
+  }
+}
